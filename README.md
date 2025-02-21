@@ -49,14 +49,14 @@ I'm a seasoned software engineer with extensive experience in full-stack develop
 <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
-<h1 align="center">💻 Featured Projects</h1>
+<h1 align="center">💻 My Git Stats and Trophies</h1>
 
-| Project Name | Description | 
-| :---: | :---- |
-| [Professional Portfolio](/) | Modern, responsive portfolio website built with React, showcasing my professional work and technical expertise. |
-| [Quiz Application](https://github.com/Khalidd3v/LazyQuiz) | Interactive quiz platform built with modern JavaScript, featuring dynamic content loading and real-time scoring. |
-| [ChatGPT-3 Integration](https://github.com/Khalidd3v/ChatGPT-3_in_Django) | Django-based implementation of ChatGPT-3 API, demonstrating advanced API integration and natural language processing. |
-| [JWT Authentication System](https://github.com/Khalidd3v/Django-Rest-Framework-JWT-Authentication-system) | Comprehensive JWT authentication solution using Django Rest Framework, featuring secure token management and user authentication. |
-| [Task Management System](https://github.com/Khalidd3v/LazyTO-DO) | Full-featured task management application with a modern UI, demonstrating front-end development expertise. |
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=khalidd3v&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=khalidd3vo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidd3v&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=khalidd3v&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
