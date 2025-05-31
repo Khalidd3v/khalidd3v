@@ -47,8 +47,6 @@ I'm a seasoned software engineer with extensive experience in full-stack develop
 <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
-<h1 align="center">💻 My Git Stats and Trophies</h1>
-
 # 📊 GitHub Stats (Public Only):
 ![](https://github-readme-stats.vercel.app/api?username=khalidd3v&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khalidd3vo&theme=dark&hide_border=false)<br/>
