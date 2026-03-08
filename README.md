@@ -46,13 +46,4 @@ I'm a seasoned software engineer with extensive experience in full-stack develop
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
-
-# 📊 GitHub Stats (Public Only):
-![](https://github-readme-stats.vercel.app/api?username=khalidd3v&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=khalidd3vo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidd3v&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=khalidd3v&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 </div>
