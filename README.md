@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F3D1E,100:00E676&height=260&section=header&text=Khalid&fontSize=80&fontColor=00E676&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Engineer%20%E2%80%A2%20Applied%20AI%20%2F%20RAG%20%E2%80%A2%20Cloud%20%26%20DevOps&descAlignY=52&descSize=20&descColor=B7FFCE" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F3D1E,100:00E676&height=260&section=header&text=Khalid&fontSize=80&fontColor=00E676&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Engineer%20%E2%80%A2%20Applied%20AI%20%2F%20RAG%20%E2%80%A2%20Cloud%20%2B%20DevOps&descAlignY=52&descSize=20&descColor=B7FFCE" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=900&color=00E676&background=00000000&center=true&vCenter=true&width=820&lines=Building+production+SaaS+from+scratch;Applied+AI+%2F+RAG+%2F+LangChain+%2F+LangGraph;Django+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+React+Native;Google+Cloud+%C2%B7+AWS+%C2%B7+Docker" alt="Typing SVG" />
 
@@ -14,7 +14,7 @@
 
 <br>
 
-## 🚀 About Me
+## Wanna Know Me?
 
 I'm **Khalid** — a full-stack software engineer from **Swat, KPK, Pakistan** 🇵🇰, building production systems by day and my own SaaS products on the side.
 
