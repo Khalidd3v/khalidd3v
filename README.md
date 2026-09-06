@@ -1,517 +1,122 @@
-<div align="center">
+<h1 align="center">Hi, I'm Khalid 👋</h1>
+<h3 align="center">Full-Stack Engineer • Applied AI & RAG • Cloud & DevOps</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=KHALID%20ALI%20KHAN&fontSize=42&fontColor=00FF9C&fontAlignY=38&desc=APPLIED%20AI%20%7C%20RAG%20%7C%20BACKEND%20%7C%20CLOUD%20%26%20DEVOPS&descAlignY=60&descSize=15&animation=fadeIn&color=0D1117"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=760&lines=Applied+AI+%26+RAG+Engineer;Backend+%7C+Cloud+%7C+DevOps;Google+Cloud+%7C+Azure+%7C+VPS;Building+Production-Ready+Systems;Python+%7C+Django+%7C+FastAPI+%7C+React" alt="Khalid Ali Khan"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Khalidd3v&style=flat-square&color=00FF9C&label=PROFILE+VIEWS"/>
-
-</div>
-
-<br>
-
-<!-- ABOUT -->
-
-<div align="center">
-
-## `> ./about`
-
-</div>
-
-<table width="100%">
-<tr>
-
-<td width="58%" valign="top">
-
-<h3><code>khalid@dev:~$ whoami</code></h3>
-
-<p>
-
-<strong>Software Engineer</strong> focused on building scalable software,
-production AI systems and reliable cloud infrastructure.
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=760&lines=Full-Stack+Software+Engineer;Building+SaaS+Products+from+Scratch;Python+%7C+Django+%7C+React+%7C+React+Native;Applied+AI+%2F+RAG+%2F+LangChain+%2F+LangGraph;Google+Cloud+%7C+AWS+%7C+DevOps" alt="Typing SVG" />
 </p>
 
-<p>
-
-My primary engineering focus is <strong>Applied AI & RAG</strong>, combined
-with strong backend, cloud and deployment experience.
-
+<p align="center">
+  <a href="https://github.com/Khalidd3v"><img src="https://img.shields.io/badge/GitHub-Khalidd3v-181717?style=for-the-badge&logo=github" /></a>
 </p>
 
-<p>
+---
 
-I build systems from architecture to production:
-
-</p>
-
-<p>
-<code>Architecture</code> →
-<code>Backend</code> →
-<code>AI Integration</code> →
-<code>Infrastructure</code> →
-<code>Deployment</code> →
-<code>Production</code>
-</p>
-
-</td>
-
-<td width="42%" valign="top">
+### 👨‍💻 About Me
 
 ```text
-┌──────────────────────────┐
-│        ENGINEER          │
-├──────────────────────────┤
-│                          │
-│  AI / RAG       ████████ │
-│  Backend        ████████ │
-│  Cloud          ███████  │
-│  DevOps         ███████  │
-│  Frontend       ██████   │
-│                          │
-└──────────────────────────┘
+khalid@dev:~$ whoami
+> Full-stack engineer from Swat, KPK, Pakistan 🇵🇰
+> Building production SaaS — day job + my own startups
+> Focused on Applied AI, backend architecture & cloud infra
 ```
 
-</td>
-
-</tr>
-</table>
-
-<br>
-
----
-
-<div align="center">
-
-## `// CURRENT FOCUS`
-
-</div>
-
-<table width="100%">
-<tr>
-
-<td width="25%" align="center">
-
-### APPLIED AI
-
-RAG Systems
-LLM Applications
-Embeddings
-Semantic Search
-AI Automation
-
-</td>
-
-<td width="25%" align="center">
-
-### BACKEND
-
-Django
-FastAPI
-REST APIs
-PostgreSQL
-Redis
-
-</td>
-
-<td width="25%" align="center">
-
-### CLOUD
-
-Google Cloud
-Azure
-VPS
-Linux
-Networking
-
-</td>
-
-<td width="25%" align="center">
-
-### DEVOPS
-
-Docker
-Nginx
-Gunicorn
-Bash
-Deployment
-
-</td>
-
-</tr>
-</table>
+- 💼 Full-stack engineer at **Qurk.app** — a multi-platform analytics & CRM SaaS connecting Shopify, Xero, and ERP data sources
+- 🚀 Co-founder of **LazyAlgo** — end-to-end SaaS with AI chatbot capabilities
+- 🏗️ Previously **Lead Backend Developer** at Xmind Limited (AU) — multi-tenant SaaS on AWS
+- 🎓 BCS graduate, self-driven into **Applied AI Engineering** (LangChain, LangGraph, RAG, MCP)
+- 🌍 Building products for real markets — deep local knowledge of the Swat/KPK retail & business landscape
+- 🗣️ Fluent in Pashto & Urdu
+- 🎯 Long-term goal: financial independence through building and scaling my own SaaS products
 
 ---
 
-<div align="center">
+### 🛠️ Tech Stack
 
-## `// RAG ENGINEERING`
-
-</div>
-
-<table width="100%">
-<tr>
-
-<td align="center" width="16%">
-
-**DATA**
-
-Documents
-Web
-CSV
-Structured Data
-
-</td>
-
-<td align="center" width="16%">
-
-→
-
-</td>
-
-<td align="center" width="16%">
-
-**RETRIEVAL**
-
-Semantic Search
-Vector Search
-Similarity
-
-</td>
-
-<td align="center" width="16%">
-
-→
-
-</td>
-
-<td align="center" width="16%">
-
-**CONTEXT**
-
-pgvector
-ChromaDB
-Qdrant
-Metadata
-
-</td>
-
-<td align="center" width="16%">
-
-→
-
-</td>
-
-<td align="center" width="16%">
-
-**LLM**
-
-Context
-Reasoning
-Generation
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<code>Data → Retrieval → Context → LLM → Intelligent Application</code>
-
-</div>
-
----
-
-<div align="center">
-
-## `// CLOUD & DEPLOYMENT`
-
-</div>
-
-<table width="100%">
-<tr>
-
-<td width="33%" align="center">
-
-<h3>GOOGLE CLOUD</h3>
-
-Compute Engine
-Cloud Run
-Cloud Storage
-Cloud SQL
-Containers
-Networking
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>AZURE</h3>
-
-Azure VMs
-Compute
-Storage
-Containers
-Networking
-Cloud Infrastructure
-
-</td>
-
-<td width="33%" align="center">
-
-<h3>VPS</h3>
-
-Ubuntu / Linux
-Docker
-Nginx
-Gunicorn
-PostgreSQL
-SSL / DNS
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG_%2F_pgvector-336791?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+</p>
 
 ```text
-                         PRODUCTION
-                             │
-              ┌──────────────┼──────────────┐
-              │              │              │
-              ▼              ▼              ▼
-        GOOGLE CLOUD       AZURE           VPS
-              │              │              │
-              └──────────────┼──────────────┘
-                             ▼
-                         DOCKER
-                             │
-                           NGINX
-                             │
-                    DJANGO / FASTAPI
-                             │
-                       POSTGRESQL
+┌────────────────────────────────────────┐
+│              FOCUS AREAS                │
+├────────────────────────────────────────┤
+│  Backend Engineering    ████████████░░  │
+│  Applied AI / RAG       █████████░░░░░  │
+│  Cloud & DevOps         ████████░░░░░░  │
+│  Frontend (React/RN)    ███████░░░░░░░  │
+│  DSA / Algorithms       ████░░░░░░░░░░  │  ← actively closing this gap
+└────────────────────────────────────────┘
 ```
 
-</div>
-
 ---
 
-<div align="center">
+### 🚀 Featured Projects
 
-## `// STACK`
-
-</div>
-
-<table width="100%">
+<table>
 <tr>
+<td width="50%">
 
-<td width="50%" valign="top">
-
-### BACKEND
-
-`Python` · `Django` · `FastAPI`
-`REST API` · `PostgreSQL` · `SQL`
-`Redis`
-
-### FRONTEND
-
-`HTML` · `CSS` · `Bootstrap`
-`Tailwind CSS` · `React.js`
-`JavaScript` · `TypeScript`
+**📦 [django-ai-tokens-meter](https://pypi.org/project/django-ai-tokens-meter/)**
+Published PyPI Django library for managing AI token quotas — generic subject support via `GenericForeignKey`, optional Redis caching, and a `reset_expired_grants` management command.
 
 </td>
+<td width="50%">
 
-<td width="50%" valign="top">
-
-### DESKTOP & SYSTEM
-
-`Electron.js` · `Bash`
-`Shell Scripting` · `Linux`
-
-### AI / DATA
-
-`RAG` · `LLMs` · `Embeddings`
-`pgvector` · `ChromaDB` · `Qdrant`
-`Vector Search` · `Semantic Search`
+**💰 MaHisaab (zmahisab.com)**
+React Native digital khata/ledger app with a Django backend. FCM push notifications, and an E2EE architecture exploration (Argon2id KEK, per-tenant DEK, libsodium sealed boxes).
 
 </td>
-
 </tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,html,css,bootstrap,tailwind,react,js,ts,electron,bash,linux,docker,nginx,gcp,azure&perline=7&theme=dark" alt="Technology Stack"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `// WHAT I BUILD`
-
-</div>
-
-<table width="100%">
 <tr>
+<td width="50%">
 
-<td width="50%" valign="top">
-
-### AI SYSTEMS
-
-* Retrieval-Augmented Generation
-* AI assistants
-* Document intelligence
-* Semantic search
-* LLM-powered applications
-* AI automation
+**🧾 ZMAPOS (zmapos.com)**
+React-based POS web app for small shop owners, with an Electron desktop version in progress (ESC/POS thermal printing, USB/serial hardware access). Multi-tenant schema with append-only ledger design.
 
 </td>
+<td width="50%">
 
-<td width="50%" valign="top">
-
-### SOFTWARE SYSTEMS
-
-* Multi-tenant SaaS
-* REST APIs
-* Business platforms
-* POS systems
-* Backend architectures
-* Desktop applications
+**🤖 LazyAlgo**
+Co-founded SaaS product with end-to-end AI chatbot capabilities, built from the ground up.
 
 </td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### CLOUD SYSTEMS
-
-* Google Cloud deployments
-* Azure infrastructure
-* VPS deployments
-* Dockerized applications
-* Linux servers
-* Production environments
-
-</td>
-
-<td width="50%" valign="top">
-
-### AUTOMATION
-
-* Bash automation
-* Deployment scripts
-* Redis-backed services
-* Background processing
-* Infrastructure automation
-* CI/CD workflows
-
-</td>
-
 </tr>
 </table>
 
 ---
 
-<div align="center">
+### 📊 GitHub Stats
 
-## `// PROJECT`
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Khalidd3v&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalidd3v&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<a href="https://zmapos.com">
-
-<img src="https://img.shields.io/badge/ZmaPOS-Multi--Tenant%20POS%20Platform-00FF9C?style=for-the-badge&labelColor=0D1117" alt="ZmaPOS"/>
-
-</a>
-
-<br><br>
-
-A scalable business platform built with modern backend architecture,
-React, PostgreSQL and production cloud infrastructure.
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khalidd3v&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Khalidd3v&label=Profile%20views&color=00D9FF&style=flat" alt="Profile views" />
+</p>
 
-## `// GITHUB ACTIVITY`
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Khalidd3v&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalidd3v&layout=compact&hide_border=true&theme=github_dark&langs_count=7" height="165" alt="Top Languages"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Khalidd3v&theme=github-dark-blue&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub Streak"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `// CONNECT`
-
-<br>
-
-<a href="https://www.linkedin.com/in/khalidd3v/">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.facebook.com/khalidd3v">
-<img src="https://cdn.simpleicons.org/facebook/1877F2" width="42" alt="Facebook"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://x.com/khalidd3v">
-<img src="https://cdn.simpleicons.org/x/FFFFFF" width="42" alt="X"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/khalidd3v/">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" alt="Instagram"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:khalidbinalikhan@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" alt="Gmail"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-```text
-$ build
-$ deploy
-$ scale
-$ repeat
-```
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0D1117&fontColor=00FF9C"/>
-
-</div>
+<p align="center"><i>Building systems from architecture → backend → AI integration → deployment → production.</i></p>
