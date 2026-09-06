@@ -1,30 +1,85 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=KHALID%20ALI%20KHAN&fontSize=42&fontColor=00FF9C&fontAlignY=38&desc=APPLIED%20AI%20%7C%20RAG%20%7C%20BACKEND%20%7C%20CLOUD%20%26%20DEVOPS&descAlignY=60&descSize=15&animation=fadeIn&color=0D1117" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=KHALID%20ALI%20KHAN&fontSize=42&fontColor=00FF9C&fontAlignY=38&desc=APPLIED%20AI%20%7C%20RAG%20%7C%20BACKEND%20%7C%20CLOUD%20%26%20DEVOPS&descAlignY=60&descSize=15&animation=fadeIn&color=0D1117"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=750&lines=Applied+AI+%26+RAG+Engineer;Backend+%7C+Cloud+%7C+DevOps;Building+Production-Ready+Systems;Google+Cloud+%7C+Azure+%7C+VPS;Python+%7C+Django+%7C+FastAPI+%7C+React" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=760&lines=Applied+AI+%26+RAG+Engineer;Backend+%7C+Cloud+%7C+DevOps;Google+Cloud+%7C+Azure+%7C+VPS;Building+Production-Ready+Systems;Python+%7C+Django+%7C+FastAPI+%7C+React" alt="Khalid Ali Khan"/>
 
 <br><br>
 
-<a href="https://github.com/Khalidd3v">
-<img src="https://komarev.com/ghpvc/?username=Khalidd3v&style=flat-square&color=00ff9c&label=PROFILE+VIEWS"/>
-</a>
-
- 
-
-<a href="https://github.com/Khalidd3v?tab=followers">
-<img src="https://img.shields.io/github/followers/Khalidd3v?style=flat-square&color=00ff9c&labelColor=161b22&label=FOLLOWERS"/>
-</a>
-
- 
-
-<a href="https://github.com/Khalidd3v?tab=repositories">
-<img src="https://img.shields.io/github/stars/Khalidd3v?style=flat-square&color=00ff9c&labelColor=161b22&label=STARS"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Khalidd3v&style=flat-square&color=00FF9C&label=PROFILE+VIEWS"/>
 
 </div>
+
+<br>
+
+<!-- ABOUT -->
+
+<div align="center">
+
+## `> ./about`
+
+</div>
+
+<table width="100%">
+<tr>
+
+<td width="58%" valign="top">
+
+<h3><code>khalid@dev:~$ whoami</code></h3>
+
+<p>
+
+<strong>Software Engineer</strong> focused on building scalable software,
+production AI systems and reliable cloud infrastructure.
+
+</p>
+
+<p>
+
+My primary engineering focus is <strong>Applied AI & RAG</strong>, combined
+with strong backend, cloud and deployment experience.
+
+</p>
+
+<p>
+
+I build systems from architecture to production:
+
+</p>
+
+<p>
+<code>Architecture</code> →
+<code>Backend</code> →
+<code>AI Integration</code> →
+<code>Infrastructure</code> →
+<code>Deployment</code> →
+<code>Production</code>
+</p>
+
+</td>
+
+<td width="42%" valign="top">
+
+```text
+┌──────────────────────────┐
+│        ENGINEER          │
+├──────────────────────────┤
+│                          │
+│  AI / RAG       ████████ │
+│  Backend        ████████ │
+│  Cloud          ███████  │
+│  DevOps         ███████  │
+│  Frontend       ██████   │
+│                          │
+└──────────────────────────┘
+```
+
+</td>
+
+</tr>
+</table>
 
 <br>
 
@@ -32,55 +87,28 @@
 
 <div align="center">
 
-### `> whoami`
+## `// CURRENT FOCUS`
 
 </div>
 
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│  Khalid Ali Khan                                                 │
-│                                                                  │
-│  Applied AI Engineer  •  RAG Engineer  •  Backend Engineer      │
-│  Cloud Engineer       •  DevOps Engineer                         │
-│                                                                  │
-│  I design and build scalable backend systems, AI applications,  │
-│  RAG pipelines, SaaS platforms and production infrastructure.   │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-`BUILD` → `INTEGRATE AI` → `DEPLOY` → `SCALE` → `MONITOR`
-
-</div>
-
----
-
-## `// CORE FOCUS`
-
-<table>
+<table width="100%">
 <tr>
+
 <td width="25%" align="center">
 
-### 🤖
+### APPLIED AI
 
-**APPLIED AI**
-
-LLMs
-RAG
+RAG Systems
+LLM Applications
 Embeddings
 Semantic Search
-AI Applications
+AI Automation
 
 </td>
 
 <td width="25%" align="center">
 
-### ⚙️
-
-**BACKEND**
+### BACKEND
 
 Django
 FastAPI
@@ -92,9 +120,7 @@ Redis
 
 <td width="25%" align="center">
 
-### ☁️
-
-**CLOUD**
+### CLOUD
 
 Google Cloud
 Azure
@@ -106,9 +132,7 @@ Networking
 
 <td width="25%" align="center">
 
-### 🚀
-
-**DEVOPS**
+### DEVOPS
 
 Docker
 Nginx
@@ -117,6 +141,7 @@ Bash
 Deployment
 
 </td>
+
 </tr>
 </table>
 
@@ -124,85 +149,73 @@ Deployment
 
 <div align="center">
 
-## 🧠 `APPLIED AI / RAG ENGINEERING`
+## `// RAG ENGINEERING`
 
 </div>
 
-<table align="center">
+<table width="100%">
 <tr>
-<td align="center">
 
-### 📥 INGEST
+<td align="center" width="16%">
+
+**DATA**
 
 Documents
-Text
+Web
 CSV
-Data Sources
+Structured Data
 
 </td>
 
-<td align="center">➜</td>
+<td align="center" width="16%">
 
-<td align="center">
-
-### 🧩 PROCESS
-
-Chunking
-Cleaning
-Metadata
-Preprocessing
+→
 
 </td>
 
-<td align="center">➜</td>
+<td align="center" width="16%">
 
-<td align="center">
+**RETRIEVAL**
 
-### 🧠 EMBED
-
-Embeddings
-Semantic Representation
-Vectorization
+Semantic Search
+Vector Search
+Similarity
 
 </td>
 
-<td align="center">➜</td>
+<td align="center" width="16%">
 
-<td align="center">
+→
 
-### 🗄️ STORE
+</td>
 
-Vector DB
+<td align="center" width="16%">
+
+**CONTEXT**
+
 pgvector
-Chroma
+ChromaDB
 Qdrant
+Metadata
 
 </td>
 
-<td align="center">➜</td>
+<td align="center" width="16%">
 
-<td align="center">
-
-### 🔎 RETRIEVE
-
-Similarity Search
-Context Retrieval
-Re-ranking
+→
 
 </td>
 
-<td align="center">➜</td>
+<td align="center" width="16%">
 
-<td align="center">
+**LLM**
 
-### 🤖 GENERATE
-
-LLM
 Context
-Response
-Evaluation
+Reasoning
+Generation
 
 </td>
+
 </tr>
 </table>
 
@@ -210,39 +223,7 @@ Evaluation
 
 <div align="center">
 
-```text
-┌────────────┐
-│  DATA      │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│ INGESTION  │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│ CHUNKING   │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│ EMBEDDING  │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│ VECTOR DB  │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│ RETRIEVAL  │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│    LLM     │
-└─────┬──────┘
-      ↓
-┌────────────┐
-│  RESPONSE  │
-└────────────┘
-```
+<code>Data → Retrieval → Context → LLM → Intelligent Application</code>
 
 </div>
 
@@ -250,51 +231,52 @@ Evaluation
 
 <div align="center">
 
-## ☁️ `CLOUD & DEPLOYMENT`
+## `// CLOUD & DEPLOYMENT`
 
 </div>
 
-<table align="center">
+<table width="100%">
 <tr>
+
 <td width="33%" align="center">
 
-### 🔵 GOOGLE CLOUD
+<h3>GOOGLE CLOUD</h3>
 
 Compute Engine
 Cloud Run
 Cloud Storage
 Cloud SQL
-Containerized Apps
-Cloud Networking
+Containers
+Networking
 
 </td>
 
 <td width="33%" align="center">
 
-### 🔷 MICROSOFT AZURE
+<h3>AZURE</h3>
 
 Azure VMs
-Azure Compute
-Azure Storage
-Cloud Networking
-Container Deployment
-Infrastructure
+Compute
+Storage
+Containers
+Networking
+Cloud Infrastructure
 
 </td>
 
 <td width="33%" align="center">
 
-### 🖥️ VPS INFRASTRUCTURE
+<h3>VPS</h3>
 
 Ubuntu / Linux
 Docker
 Nginx
 Gunicorn
 PostgreSQL
-SSL / HTTPS
-Domain / DNS
+SSL / DNS
 
 </td>
+
 </tr>
 </table>
 
@@ -302,21 +284,24 @@ Domain / DNS
 
 <div align="center">
 
-### `PRODUCTION DEPLOYMENT`
-
-<img src="https://img.shields.io/badge/Client-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=009639"/>
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/Django%20%2F%20FastAPI-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-
-<br><br>
-
-`Google Cloud`  •  `Azure`  •  `VPS`
+```text
+                         PRODUCTION
+                             │
+              ┌──────────────┼──────────────┐
+              │              │              │
+              ▼              ▼              ▼
+        GOOGLE CLOUD       AZURE           VPS
+              │              │              │
+              └──────────────┼──────────────┘
+                             ▼
+                         DOCKER
+                             │
+                           NGINX
+                             │
+                    DJANGO / FASTAPI
+                             │
+                       POSTGRESQL
+```
 
 </div>
 
@@ -324,137 +309,122 @@ Domain / DNS
 
 <div align="center">
 
-## 🛠️ `TECHNOLOGIES`
+## `// STACK`
 
 </div>
 
-<table align="center">
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
 
-### `BACKEND`
+<td width="50%" valign="top">
 
-* Python
-* Django
-* FastAPI
-* REST API
-* PostgreSQL
-* SQL
-* Redis
+### BACKEND
 
-</td>
+`Python` · `Django` · `FastAPI`
+`REST API` · `PostgreSQL` · `SQL`
+`Redis`
 
-<td valign="top" width="50%">
+### FRONTEND
 
-### `FRONTEND`
-
-* HTML
-* CSS
-* Bootstrap
-* Tailwind CSS
-* JavaScript
-* TypeScript
-* React.js
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### `DESKTOP / SYSTEM`
-
-* Electron.js
-* Bash
-* Shell Scripting
-* Linux
-* VPS Deployment
+`HTML` · `CSS` · `Bootstrap`
+`Tailwind CSS` · `React.js`
+`JavaScript` · `TypeScript`
 
 </td>
 
-<td valign="top">
+<td width="50%" valign="top">
 
-### `AI / DATA`
+### DESKTOP & SYSTEM
 
-* RAG
-* LLM Applications
-* Embeddings
-* Vector Search
-* pgvector
-* ChromaDB
-* Qdrant
+`Electron.js` · `Bash`
+`Shell Scripting` · `Linux`
+
+### AI / DATA
+
+`RAG` · `LLMs` · `Embeddings`
+`pgvector` · `ChromaDB` · `Qdrant`
+`Vector Search` · `Semantic Search`
 
 </td>
+
 </tr>
 </table>
 
----
+<br>
 
 <div align="center">
 
-## 🧩 `ENGINEERING STACK`
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,react,js,ts,html,css,bootstrap,tailwind,electron,bash,linux,docker,nginx,azure,gcp,git,github&perline=7&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,html,css,bootstrap,tailwind,react,js,ts,electron,bash,linux,docker,nginx,gcp,azure&perline=7&theme=dark" alt="Technology Stack"/>
 
 </div>
 
 ---
+
+<div align="center">
 
 ## `// WHAT I BUILD`
 
-<table>
+</div>
+
+<table width="100%">
 <tr>
-<td>
 
-### 🤖 AI PRODUCTS
+<td width="50%" valign="top">
 
-RAG Applications
-AI Assistants
-Document Intelligence
-Semantic Search
-LLM-powered Applications
+### AI SYSTEMS
+
+* Retrieval-Augmented Generation
+* AI assistants
+* Document intelligence
+* Semantic search
+* LLM-powered applications
+* AI automation
+
+</td>
+
+<td width="50%" valign="top">
+
+### SOFTWARE SYSTEMS
+
+* Multi-tenant SaaS
+* REST APIs
+* Business platforms
+* POS systems
+* Backend architectures
+* Desktop applications
 
 </td>
 
-<td>
-
-### 🏗️ BACKEND SYSTEMS
-
-REST APIs
-SaaS Platforms
-Multi-Tenant Systems
-Authentication
-Database Architecture
-
-</td>
 </tr>
 
 <tr>
-<td>
 
-### ☁️ CLOUD SYSTEMS
+<td width="50%" valign="top">
 
-Google Cloud
-Azure
-VPS Infrastructure
-Dockerized Services
-Production Deployment
+### CLOUD SYSTEMS
+
+* Google Cloud deployments
+* Azure infrastructure
+* VPS deployments
+* Dockerized applications
+* Linux servers
+* Production environments
+
+</td>
+
+<td width="50%" valign="top">
+
+### AUTOMATION
+
+* Bash automation
+* Deployment scripts
+* Redis-backed services
+* Background processing
+* Infrastructure automation
+* CI/CD workflows
 
 </td>
 
-<td>
-
-### ⚡ AUTOMATION
-
-Background Workers
-Redis
-Bash Automation
-Deployment Scripts
-Infrastructure Automation
-
-</td>
 </tr>
 </table>
 
@@ -462,22 +432,18 @@ Infrastructure Automation
 
 <div align="center">
 
-## 🚀 `PROJECTS`
+## `// PROJECT`
 
 <a href="https://zmapos.com">
 
-<img src="https://img.shields.io/badge/ZmaPOS-Multi--Tenant%20POS%20Platform-00FF9C?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/ZmaPOS-Multi--Tenant%20POS%20Platform-00FF9C?style=for-the-badge&labelColor=0D1117" alt="ZmaPOS"/>
 
 </a>
 
 <br><br>
 
-A scalable POS platform built around modern backend architecture,
-business automation and cloud deployment.
-
-<br>
-
-`Django` · `React` · `PostgreSQL` · `Docker` · `Cloud`
+A scalable business platform built with modern backend architecture,
+React, PostgreSQL and production cloud infrastructure.
 
 </div>
 
@@ -485,17 +451,17 @@ business automation and cloud deployment.
 
 <div align="center">
 
-## 📊 `GITHUB ANALYTICS`
+## `// GITHUB ACTIVITY`
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Khalidd3v&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Khalidd3v&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalidd3v&layout=compact&hide_border=true&theme=github_dark&langs_count=7" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalidd3v&layout=compact&hide_border=true&theme=github_dark&langs_count=7" height="165" alt="Top Languages"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Khalidd3v&theme=github-dark-blue&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
+<img src="https://streak-stats.demolab.com?user=Khalidd3v&theme=github-dark-blue&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub Streak"/>
 
 </div>
 
@@ -503,43 +469,49 @@ business automation and cloud deployment.
 
 <div align="center">
 
-## `> connect --with-khalid`
+## `// CONNECT`
 
 <br>
 
 <a href="https://www.linkedin.com/in/khalidd3v/">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C"/>
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="42" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://twitter.com/khalidd3v">
-<img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=00FF9C"/>
+<a href="https://www.facebook.com/khalidd3v">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" width="42" alt="Facebook"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/Khalidd3v">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C"/>
+<a href="https://x.com/khalidd3v">
+<img src="https://cdn.simpleicons.org/x/FFFFFF" width="42" alt="X"/>
 </a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/khalidd3v/">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" alt="Instagram"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:khalidbinalikhan@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF9C"/>
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" alt="Gmail"/>
 </a>
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 ```text
-$ echo "Build intelligent systems."
-Build intelligent systems.
-
-$ echo "Deploy them."
-Deploy them.
-
-$ echo "Scale them."
-Scale them.
-
-$ exit
+$ build
+$ deploy
+$ scale
+$ repeat
 ```
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0D1117&fontColor=00FF9C"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0D1117&fontColor=00FF9C"/>
 
 </div>
