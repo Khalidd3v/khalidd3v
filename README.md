@@ -1,13 +1,6 @@
 <div align="center">
 
-<pre>
-██╗  ██╗██╗  ██╗ █████╗ ██╗     ██╗██████╗ 
-██║ ██╔╝██║  ██║██╔══██╗██║     ██║██╔══██╗
-█████╔╝ ███████║███████║██║     ██║██║  ██║
-██╔═██╗ ██╔══██║██╔══██║██║     ██║██║  ██║
-██║  ██╗██║  ██║██║  ██║███████╗██║██████╔╝
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝╚═════╝ 
-</pre>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a3a1a&height=200&section=header&text=KHALID&fontSize=70&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Applied%20AI%20%2F%20RAG%20%7C%20Cloud%20%26%20DevOps&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=800&lines=root%40khalid%3A~%23+whoami;Full-Stack+Software+Engineer;Applied+AI+%2F+RAG+Engineer;Django+%7C+FastAPI+%7C+React+%7C+React+Native;Google+Cloud+%7C+AWS+%7C+Docker;Building+SaaS+products+from+scratch..." alt="Typing SVG" />
 
