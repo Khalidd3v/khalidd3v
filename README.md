@@ -6,7 +6,6 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Khalidd3v-0D1117?style=for-the-badge&logo=github&logoColor=00E676&labelColor=0D1117)](https://github.com/Khalidd3v)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=00E676&labelColor=0D1117)](mailto:khalidbinalikhan@gmail.com)
 [![Views](https://komarev.com/ghpvc/?username=Khalidd3v&label=Profile+Views&color=00E676&style=for-the-badge)](https://github.com/Khalidd3v)
 
@@ -19,7 +18,7 @@
 I'm **Khalid** — a full-stack software engineer from **Swat, KPK, Pakistan** 🇵🇰, building production systems by day and my own SaaS products on the side.
 
 - 💼 Full-stack engineer at **Qurk.app** — a multi-platform analytics & CRM SaaS unifying data from Shopify, Xero, and ERP systems
-- 🚀 Co-founder of **LazyAlgo** — an end-to-end SaaS product with built-in AI chatbot capabilities
+- 🚀 Co-founder of **Argumant** — an end-to-end SaaS product with built-in AI chatbot capabilities
 - 💰 Building **ZMAHISAB** — a React Native digital khata/ledger app with a Django backend, FCM notifications, and an end-to-end encryption architecture
 - 📦 Published **[django-ai-tokens-meter](https://pypi.org/project/django-ai-tokens-meter/)** on PyPI — a production-ready AI token quota manager for Django
 - 🏗️ Previously **Lead Backend Developer** @ Xmind Limited (Australia) — multi-tenant SaaS on AWS
@@ -144,14 +143,6 @@ Integrating GPT-3 into a Django application — an early step into applied AI.
 | [django-with-google-cloud-console](https://github.com/Khalidd3v/django-with-google-cloud-console) | Python | Full guide to deploying Django on Google Cloud |
 | [Django-Rest-Framework-JWT-Authentication-system](https://github.com/Khalidd3v/Django-Rest-Framework-JWT-Authentication-system) | Python | JWT auth system built with DRF |
 | [Django-DRF](https://github.com/Khalidd3v/Django-DRF) | Python | Django REST Framework & serialization concepts |
-| [portfolio](https://github.com/Khalidd3v/portfolio) | JavaScript | Personal portfolio built in React |
-| [LazyDataFiller](https://github.com/Khalidd3v/LazyDataFiller) | JavaScript | Utility tool for auto-filling data |
-| [salesawari](https://github.com/Khalidd3v/salesawari) | JavaScript | Sales-focused web project |
-| [LazyTO-DO](https://github.com/Khalidd3v/LazyTO-DO) | JavaScript | To-do app with no LocalStorage or DB — pure JS state |
-| [LazyQuiz](https://github.com/Khalidd3v/LazyQuiz) | JavaScript | Quiz application built in vanilla JS |
-| [Email_Scrapper](https://github.com/Khalidd3v/Email_Scrapper) | Python | Django email scraper with an admin panel |
-| [Likee_Scrapper](https://github.com/Khalidd3v/Likee_Scrapper) | Python | Video scraper for the Likee platform |
-| [Pinterest_Scrapper](https://github.com/Khalidd3v/Pinterest_Scrapper) | Python | Downloads images, videos & stories from Pinterest |
 | [mongodb-hacking-d3v](https://github.com/Khalidd3v/mongodb-hacking-d3v) | Python | MongoDB experiments & internals |
 
 </details>
