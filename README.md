@@ -97,7 +97,7 @@ Published on PyPI. Manages AI token quotas with generic subject support, optiona
 <tr>
 <td width="50%" valign="top">
 
-### 💰 ZMAHISAB
+### 💰 [ZMAHISAB APP](https://zmahisab.com)
 A React Native digital khata/ledger app with a Django backend, Firebase push notifications, and an envelope-encryption architecture for multi-staff access.
 
 `React Native` `Django` `Firebase`
@@ -123,8 +123,8 @@ A realtime chat application powered by Django Channels and WebSockets.
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [ChatGPT-3_in_Django](https://github.com/Khalidd3v/ChatGPT-3_in_Django)
-Integrating GPT-3 into a Django application — an early step into applied AI.
+### 🤖 [ZMAPOS Cloud Multi-Tenant POS](https://zmapos.com)
+ZMAPOS is made one of the my best projects, currently 50+ users are using ZMAPOS and they are already way ahead of user POS owners and they are extemely happy by the features they have got in ZMAPOS under 6$ Subscription.
 
 `Python` `Django`
 
